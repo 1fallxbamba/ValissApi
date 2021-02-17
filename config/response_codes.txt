@@ -1,0 +1,69 @@
+							*****V A L I S S  A P I  C U S T O M  R E S P O N S E  C O D E S*****
+
+
+-----------A U T H----------------
+
+1. LOGIN
+
+- USC : User Successfully Connected 
+
+- WPWD : Wrong Password
+
+- UDNE : User Does Not Exist
+
+
+2. REGISTER
+
+- NUSR : New User Successfully Registered
+
+- URE : User Registration Error (the user data has been inserted in the user_data table but not in the Users table)
+
+- GRE : General Registration Error (the user has not been registered in no table)
+
+
+3. VALIDATE 
+
+- UNA : Username Not Available
+
+- UIA : Username Is Available
+
+
+
+----------G E T----------
+
+1. FRIENDS
+
+- UHNF : User Has No Friends
+
+
+
+2. FRIENDS_DATA
+
+- EFFD : Error Fetching Friends Data
+
+
+
+3. SEARCH_USER 
+
+- UNF : User Not Found
+
+
+4. USER_DATA
+
+- EFUD : Error Fetching User Data
+
+
+
+---------P O S T-----------------
+
+
+1. ADD_FRIEND
+
+- NFSA : New Friend Successfully Added
+
+- FAE : Friend Already Exists
+
+
+
+
+
